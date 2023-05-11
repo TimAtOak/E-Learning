@@ -1,4 +1,15 @@
-/node_modules
-/.vs
-/bin
-/obj
+# c# build
+Debug/
+Release/
+bin/
+obj/
+
+# node
+node_modules/
+dist/
+
+# Visual Studio
+.vs/
+
+# custom server settings
+launchSettings.json
